@@ -8,13 +8,13 @@ Copy contents of [wifi_rebooter.sh](wifi_rebooter.sh) in a new file:
 
 ```
 $ sudo nano /usr/local/bin/wifi_rebooter.sh
-$ sudo chmod +x /usr/local/bin/wifi_rebooter.sh
+$ sudo chmod +x /usr/local/bin/wifi_rebooter.sh # makes the file executable
 ```
 
 Verify that the script is executable:
 
 ```
-$ ./usr/local/bin/wifi_rebooter.sh
+$ sh /usr/local/bin/wifi_rebooter.sh
 ```
 
 ## Schedule the script to run every minute
