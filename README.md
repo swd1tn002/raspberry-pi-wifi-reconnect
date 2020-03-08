@@ -4,7 +4,7 @@ A cron job for setting wlan0 interface down and up again to recover from loss of
 
 ## Create the bash script:
 
-Copy contents of `wifi_rebooter.sh` in a new file:
+Copy contents of [wifi_rebooter.sh](wifi_rebooter.sh) in a new file:
 
 ```
 $ sudo nano /usr/local/bin/wifi_rebooter.sh
