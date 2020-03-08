@@ -1,6 +1,6 @@
 # raspberry-pi-wifi-reconnect
 
-My Raspberry Pi 3 Model B+ at times loses wifi connectivity due to unknown reasons. The signal appears strong and everything appears to be fine, but all connections time out. This cron job is created for setting wlan0 interface down and up again when such connectivity issue is detected to restore connectivity.
+My Raspberry Pi 3 Model B+ at times loses wifi connectivity due to unknown reasons. The signal appears strong and wifi appears to be connected, but all connections time out. This cron job is created for setting the wifi interface down and up again when such connectivity issue is detected to restore the connection.
 
 ## Create the bash script:
 
