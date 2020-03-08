@@ -36,6 +36,7 @@ You can check if the script has reconnected by viewing the log file:
 
 ```
 $ cat /var/log/wifi_rebooter.txt
+wlan0 reconnected at Sun Mar  8 12:02:01 EET 2020
 ```
 
 
